@@ -60,7 +60,7 @@ yarn run dev
 ## Usage
 
 1. **Login**
-   - Masukkan username: emilys dan password: emilyspass
+   - Masukkan username: `emilys` dan password: `emilyspass`
 2. **Main Page**
    - Daftar postingan akan ditampilkan dalam bentuk kartu
    - Gunakan fitur pencarian untuk mencari postingan berdasarkan judul
